@@ -1,7 +1,7 @@
 Hi 👋 My name is Ch Yaswanth Sai
 ================================
 
-Web Developer
+A Computer Science Engineer & Enthusiastic Developer
 -------------
 
 * 🌍  I'm based in India
