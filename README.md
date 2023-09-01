@@ -14,8 +14,6 @@
 
 <h1 align="center">Hello World 👋</h1>
 
-###
-
 <h2 align="left">I'm Yaswanth from India</h2>
 
 ###
